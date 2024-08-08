@@ -8,6 +8,10 @@
         <option value="$PROJECT_DIR$/Extend-Thread-Class/pom.xml" />
         <option value="$PROJECT_DIR$/Implement-Runnable-Interface/pom.xml" />
         <option value="$PROJECT_DIR$/Lambda-Expression/pom.xml" />
+        <option value="$PROJECT_DIR$/Join-IsAlive/pom.xml" />
+        <option value="$PROJECT_DIR$/Syncronised-Keyword/pom.xml" />
+        <option value="$PROJECT_DIR$/Synchronised-Keyword/pom.xml" />
+        <option value="$PROJECT_DIR$/Inter-Thread-Communication/pom.xml" />
       </list>
     </option>
   </component>
